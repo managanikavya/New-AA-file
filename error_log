@@ -1,0 +1,123 @@
+[07-May-2020 10:09:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/index.php on line 3
+[07-May-2020 10:09:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/index.php on line 3
+[07-May-2020 10:09:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/index.php on line 3
+[07-May-2020 10:10:17 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/index.php on line 2
+[07-May-2020 10:10:19 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/index.php on line 2
+[07-May-2020 10:13:03 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/index.php on line 12
+[07-May-2020 10:13:03 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/index.php on line 12
+[07-May-2020 10:13:04 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/index.php on line 12
+[07-May-2020 10:13:04 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/index.php on line 12
+[07-May-2020 10:13:04 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/index.php on line 12
+[07-May-2020 10:13:04 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/index.php on line 12
+[07-May-2020 10:13:04 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/index.php on line 12
+[07-May-2020 10:13:04 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/index.php on line 12
+[07-May-2020 10:13:05 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/index.php on line 12
+[07-May-2020 10:13:05 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/index.php on line 12
+[08-May-2020 06:06:02 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:06:04 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:06:04 UTC] PHP Notice:  Undefined index: ProjectID in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:30:46 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:30:47 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:30:47 UTC] PHP Notice:  Undefined index: ProjectID in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:33:31 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:33:34 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:33:34 UTC] PHP Notice:  Undefined index: ProjectID in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:36:46 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:36:48 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:36:48 UTC] PHP Notice:  Undefined index: ProjectID in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:36:49 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:36:51 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:36:51 UTC] PHP Notice:  Undefined index: ProjectID in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:38:09 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:38:10 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:38:10 UTC] PHP Notice:  Undefined index: ProjectID in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:40:00 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:40:02 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:40:02 UTC] PHP Notice:  Undefined index: ProjectID in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:44:38 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:44:39 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:44:39 UTC] PHP Notice:  Undefined index: ProjectID in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:44:43 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:44:43 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:44:43 UTC] PHP Notice:  Undefined index: ProjectID in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:44:52 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:46:21 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:46:25 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:47:55 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:48:03 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:51:52 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 06:53:32 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 07:11:17 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:15:07 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:27:40 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:35:35 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:40:39 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:40:47 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:41:25 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:41:35 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:45:08 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:45:17 UTC] PHP Warning:  require_once(dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/pdf.php on line 3
+[08-May-2020 10:45:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/pdf.php on line 3
+[08-May-2020 10:48:02 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:50:03 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:51:06 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:51:27 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:51:47 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:52:28 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:53:48 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:54:53 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:55:13 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:55:42 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:56:20 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:56:55 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:58:17 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[08-May-2020 10:58:59 UTC] PHP Warning:  Use of undefined constant ProjectID - assumed 'ProjectID' (this will throw an Error in a future version of PHP) in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/Invoice.php on line 2
+[26-May-2020 16:06:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/PHPMailerAutoload.php on line 46
+[26-May-2020 16:06:24 UTC] PHP Notice:  Undefined variable: fileName in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/MailFire.php on line 20
+[26-May-2020 16:06:24 UTC] PHP Fatal error:  Uncaught phpmailerException: Could not access file: invoiceFiles/ in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php:2396
+Stack trace:
+#0 /home/umwb8id6eyhh/public_html/aapts.authorassists.in/MailFire.php(20): PHPMailer->addAttachment('invoiceFiles/')
+#1 {main}
+  thrown in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php on line 2396
+[26-May-2020 16:07:17 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/PHPMailerAutoload.php on line 46
+[26-May-2020 16:07:47 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/PHPMailerAutoload.php on line 46
+[26-May-2020 16:08:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/PHPMailerAutoload.php on line 46
+[26-May-2020 16:08:06 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/PHPMailerAutoload.php on line 46
+[26-May-2020 16:09:06 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/PHPMailerAutoload.php on line 46
+[26-May-2020 16:10:05 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/PHPMailerAutoload.php on line 46
+[26-May-2020 16:10:05 UTC] PHP Notice:  Undefined variable: invoiceNo in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/MailFire.php on line 22
+[26-May-2020 16:10:11 UTC] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php:1464
+Stack trace:
+#0 /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php(1300): PHPMailer->smtpSend('Date: Tue, 26 M...', '<p>Hi</p><p>Ple...')
+#1 /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php(1180): PHPMailer->postSend()
+#2 /home/umwb8id6eyhh/public_html/aapts.authorassists.in/MailFire.php(24): PHPMailer->send()
+#3 {main}
+  thrown in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php on line 1464
+[26-May-2020 16:11:05 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/PHPMailerAutoload.php on line 46
+[26-May-2020 16:11:11 UTC] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php:1464
+Stack trace:
+#0 /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php(1300): PHPMailer->smtpSend('Date: Tue, 26 M...', '<p>Hi</p><p>Ple...')
+#1 /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php(1180): PHPMailer->postSend()
+#2 /home/umwb8id6eyhh/public_html/aapts.authorassists.in/MailFire.php(25): PHPMailer->send()
+#3 {main}
+  thrown in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php on line 1464
+[26-May-2020 16:13:28 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/PHPMailerAutoload.php on line 46
+[26-May-2020 16:13:34 UTC] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php:1464
+Stack trace:
+#0 /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php(1300): PHPMailer->smtpSend('Date: Tue, 26 M...', '<p>Hi</p><p>Ple...')
+#1 /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php(1180): PHPMailer->postSend()
+#2 /home/umwb8id6eyhh/public_html/aapts.authorassists.in/MailFire.php(25): PHPMailer->send()
+#3 {main}
+  thrown in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php on line 1464
+[26-May-2020 16:21:16 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/PHPMailerAutoload.php on line 46
+[26-May-2020 16:21:22 UTC] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php:1464
+Stack trace:
+#0 /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php(1300): PHPMailer->smtpSend('Date: Tue, 26 M...', '<p>Hi</p><p>Ple...')
+#1 /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php(1180): PHPMailer->postSend()
+#2 /home/umwb8id6eyhh/public_html/aapts.authorassists.in/MailFire.php(25): PHPMailer->send()
+#3 {main}
+  thrown in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/PHPMailer/class.phpmailer.php on line 1464
+[27-Aug-2020 09:44:30 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/TranslationServices.php on line 282
+[27-Aug-2020 09:44:30 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/TranslationServices.php on line 282
+[27-Aug-2020 09:44:52 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/BookEditing.php on line 119
+[27-Aug-2020 09:44:52 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/umwb8id6eyhh/public_html/aapts.authorassists.in/BookEditing.php on line 119
